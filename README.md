@@ -70,7 +70,7 @@ It allows decision-makers to easily monitor key metrics, explore trends by regio
 
 Explore the full interactive version of the **Global Sales Performance Dashboard** to see filters, slicers, and tooltips in action.  
 
-📊 **Live Dashboard:** [**View on NovyPro →**](https://project.novypro.com/aiM7Mw)  
+📊 **Live Dashboard:** [**Click here**](https://app.powerbi.com/reportEmbed?reportId=2b6c4982-0b3c-47ae-9756-4a898d033c3b&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde) 
 
 > 💡 Hover over visuals to explore detailed regional performance, product-level metrics, and order statuses.  
 
